@@ -1,11 +1,11 @@
-# 🚚📦 E-Commerce Product Delivery Prediction
+#  E-Commerce Product Delivery Prediction
 
 This project focuses on predicting whether a product delivery will be **on time** or **delayed** based on various features of an e-commerce order.  
 Using machine learning techniques, the goal is to help logistics and operations teams improve customer satisfaction and optimize delivery processes.
 
 ---
 
-## 📁 Project Overview
+##  Project Overview
 
 - **Problem Statement:**  
   Predict if an e-commerce order will be delivered on time.
@@ -18,9 +18,9 @@ Using machine learning techniques, the goal is to help logistics and operations 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
-- **Python** 🐍
+- **Python** 
 - **Libraries:**  
   - Pandas  
   - NumPy  
