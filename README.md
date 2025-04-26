@@ -41,7 +41,7 @@ Using machine learning techniques, the goal is to help logistics and operations 
 
 ---
 
-## 📈 Project Workflow
+##  Project Workflow
 
 1. **Data Loading & Inspection**
    - Reading the dataset
@@ -69,13 +69,13 @@ Using machine learning techniques, the goal is to help logistics and operations 
 
 ---
 
-## 📊 Results
+##  Results
 
 - Among the tested models, **XGBoost Classifier** performed the best with the highest accuracy and balanced classification metrics.
 
 ---
 
-## 🔥 How to Run This Project
+##  How to Run This Project
 
 1. **Clone this repository:**
    ```bash
@@ -99,7 +99,7 @@ Using machine learning techniques, the goal is to help logistics and operations 
 
 ---
 
-## ✅ Future Improvements
+##  Future Improvements
 
 - Hyperparameter tuning for even better accuracy
 - Integration into a web dashboard for real-time prediction
@@ -107,7 +107,7 @@ Using machine learning techniques, the goal is to help logistics and operations 
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/Mehul-Mridul/Data-Science-Project/issues).
