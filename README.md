@@ -112,19 +112,4 @@ Using machine learning techniques, the goal is to help logistics and operations 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/yourusername/ecommerce-delivery-prediction/issues).
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 📬 Contact
-
-- **Name:** [Your Name]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [your.email@example.com]
-
----
 
