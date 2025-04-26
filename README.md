@@ -110,6 +110,6 @@ Using machine learning techniques, the goal is to help logistics and operations 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/yourusername/ecommerce-delivery-prediction/issues).
+Feel free to check the [issues page](https://github.com/Mehul-Mridul/Data-Science-Project/issues).
 
 
